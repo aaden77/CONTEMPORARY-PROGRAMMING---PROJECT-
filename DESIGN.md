@@ -138,7 +138,6 @@ main
 
 ## 3. Pseudocode and Flowcharts
 
-Flowcharts (Mermaid) are used for the control-heavy functions; pseudocode for the rest.
 
 ### 3.1 `main` — Flowchart
 
